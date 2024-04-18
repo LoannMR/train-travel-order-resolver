@@ -1,0 +1,297 @@
+trip_id,duration,start_station,end_station
+OCESN12213F1304079:2023-08-29T11:49:37Z,129.0,paris montparnasse hall 1 - 2,bordeaux saint-jean
+OCESN12213F2323578:2023-10-09T00:43:50Z,266.0,paris montparnasse hall 1 - 2,toulouse matabiau
+OCESN12244F2546867:2023-10-13T00:46:55Z,132.0,bordeaux saint-jean,paris montparnasse hall 1 - 2
+OCESN12289F2203976:2023-09-05T00:35:10Z,94.0,paris montparnasse hall 1 - 2,poitiers
+OCESN2050F2243940:2023-10-13T00:46:55Z,131.0,strasbourg,paris est
+OCESN2050F2470133:2023-10-13T00:46:55Z,135.0,strasbourg,paris gare du nord
+OCESN2051F2391370:2023-10-13T00:46:55Z,117.0,paris est,strasbourg
+OCESN2077F2271008:2023-10-13T00:46:55Z,122.0,paris gare du nord,strasbourg
+OCESN2087F2239944:2023-08-29T11:49:37Z,346.0,strasbourg,aix-en-provence tgv
+OCESN2087F2308903:2023-10-11T00:54:01Z,363.0,strasbourg,marseille saint-charles
+OCESN2090F2441881:2023-10-09T00:43:50Z,363.0,strasbourg,bordeaux saint-jean
+OCESN2092F2441878:2023-10-11T00:54:01Z,358.0,bordeaux saint-jean,strasbourg
+OCESN2096F2404402:2023-10-09T00:43:50Z,358.0,aix-en-provence tgv,strasbourg
+OCESN2096F2519325:2023-10-09T00:43:50Z,371.0,marseille saint-charles,strasbourg
+OCESN2203F2174017:2023-08-29T11:49:37Z,371.0,strasbourg,montpellier saint-roch
+OCESN2204F2173418:2023-08-29T11:49:37Z,375.0,montpellier saint-roch,strasbourg
+OCESN2204F2290264:2023-10-09T00:43:50Z,435.0,montpellier saint-roch,metz
+OCESN2207F2290687:2023-10-09T00:43:50Z,100.0,paris gare du nord,metz
+OCESN2208F1921255:2023-10-11T00:54:01Z,93.0,metz,paris est
+OCESN2213F2426030:2023-10-09T00:43:50Z,85.0,paris est,metz
+OCESN2234F1955190:2023-10-11T00:54:01Z,118.0,nancy place de la république,paris est
+OCESN2237F1334366:2023-10-04T00:41:06Z,111.0,paris est,nancy place de la république
+OCESN2237F2403232:2023-10-09T00:43:50Z,119.0,paris gare du nord,nancy place de la république
+OCESN2239F2173963:2023-10-04T00:41:06Z,535.0,strasbourg,nice-ville
+OCESN2239F2346865:2023-10-09T00:43:50Z,423.0,strasbourg,toulon
+OCESN2239F2380179:2023-10-09T00:43:50Z,647.0,nancy place de la république,nice-ville
+OCESN2242F2121827:2023-10-13T00:46:55Z,534.0,nice-ville,strasbourg
+OCESN2242F2184608:2023-10-04T09:03:30Z,602.0,nice-ville,nancy place de la république
+OCESN2242F2371191:2023-10-04T09:03:30Z,424.0,toulon,strasbourg
+OCESN2253F2240609:2023-10-13T00:46:55Z,48.0,paris est,reims
+OCESN2260F1337017:2023-10-09T00:43:50Z,52.0,reims,paris est
+OCESN2350F2019974:2023-10-13T00:46:55Z,162.0,colmar,paris est
+OCESN2350F2408970:2023-10-11T00:54:01Z,177.0,colmar,paris gare du nord
+OCESN2363F2262992:2023-10-13T00:46:55Z,146.0,paris est,colmar
+OCESN2363F2544183:2023-10-09T00:43:50Z,174.0,paris gare du nord,colmar
+OCESN2534F2542887:2023-09-19T00:35:11Z,99.0,nancy place de la république,paris gare du nord
+OCESN2571F1943482:2023-10-09T00:43:50Z,171.0,paris est,remiremont
+OCESN2573F2606543:2023-10-11T00:54:01Z,230.0,paris gare du nord,remiremont
+OCESN2574F2244253:2023-10-11T00:54:01Z,169.0,remiremont,paris est
+OCESN2591F1911335:2023-10-09T00:43:50Z,173.0,paris est,saint-dié-des-vosges
+OCESN2596F2257109:2023-10-11T00:54:01Z,157.0,saint-dié-des-vosges,paris est
+OCESN2654F2387412:2023-10-11T00:54:01Z,117.0,metz,paris gare du nord
+OCESN2701F2610871:2023-09-23T00:33:29Z,63.0,paris gare du nord,reims
+OCESN2709F2058470:2023-10-11T00:54:01Z,128.0,paris est,sedan
+OCESN2709F2584834:2023-10-13T00:46:55Z,104.0,paris est,charleville-mézières
+OCESN2714F1718173:2023-08-29T11:49:37Z,138.0,sedan,paris est
+OCESN2722F1664200:2023-09-19T00:35:11Z,66.0,reims,paris gare du nord
+OCESN2724F2429347:2023-10-11T00:54:01Z,162.0,sedan,paris gare du nord
+OCESN2730F2436054:2023-10-13T00:46:55Z,110.0,charleville-mézières,paris est
+OCESN2778F2348372:2023-10-11T00:54:01Z,126.0,bar-le-duc,paris est
+OCESN2785F1347810:2023-10-10T00:42:10Z,124.0,paris est,bar-le-duc
+OCESN2801F2387496:2023-09-23T00:33:29Z,150.0,paris gare du nord,luxembourg
+OCESN2801F2584859:2023-10-13T00:46:55Z,138.0,paris est,luxembourg
+OCESN2815F2495671:2023-09-19T00:35:11Z,117.0,paris gare du nord,thionville
+OCESN2854F2373878:2023-10-10T00:42:10Z,134.0,luxembourg,paris est
+OCESN2864F2511370:2023-09-26T00:38:18Z,173.0,luxembourg,paris gare du nord
+OCESN2870F1567584:2023-10-11T00:54:01Z,130.0,thionville,paris gare du nord
+OCESN32965F2632088:2023-09-27T00:39:01Z,342.0,paris gare de lyon hall 1 - 2,nice-ville
+OCESN5000F2180299:2023-08-29T11:49:37Z,205.0,lille europe,rennes
+OCESN5010F2239480:2023-10-09T00:43:50Z,300.0,lille europe,marseille saint-charles
+OCESN5010F2342328:2023-10-04T09:03:30Z,289.0,lille europe,aix-en-provence tgv
+OCESN5010F2594196:2023-10-09T00:43:50Z,185.0,lille europe,lyon part dieu
+OCESN5020F2218325:2023-10-12T00:48:35Z,328.0,lille europe,montpellier saint-roch
+OCESN5026F2176747:2023-10-04T09:03:30Z,264.0,lille europe,montpellier sud de france
+OCESN5054F1686663:2023-10-02T00:28:07Z,236.0,marseille saint-charles,aéroport charles de gaulle 2 tgv
+OCESN5054F2257212:2023-10-10T00:42:10Z,291.0,marseille saint-charles,lille europe
+OCESN5054F2597509:2023-10-10T00:42:10Z,173.0,lyon part dieu,lille europe
+OCESN5060F2406370:2023-10-09T00:43:50Z,223.0,bordeaux saint-jean,aéroport charles de gaulle 2 tgv
+OCESN5062F2244000:2023-10-09T00:43:50Z,312.0,montpellier sud de france,lille europe
+OCESN5062F2264576:2023-10-04T09:03:30Z,329.0,montpellier saint-roch,lille europe
+OCESN5066F2241590:2023-10-09T00:43:50Z,254.0,aix-en-provence tgv,lille europe
+OCESN5080F2219555:2023-10-10T00:42:10Z,230.0,rennes,lille europe
+OCESN5156F2082813:2023-10-09T00:43:50Z,312.0,montpellier saint-roch,lille flandres
+OCESN5186F2217864:2023-10-10T00:42:10Z,195.0,lyon perrache,lille europe
+OCESN5192F1989988:2023-10-09T00:43:50Z,238.0,lyon perrache,lille flandres
+OCESN5192F2326814:2023-10-04T00:41:06Z,360.0,marseille saint-charles,lille flandres
+OCESN5192F2359520:2023-10-04T00:41:06Z,220.0,lyon part dieu,lille flandres
+OCESN5202F1688143:2023-09-30T00:27:01Z,346.0,lille europe,bordeaux saint-jean
+OCESN5202F2203619:2023-10-10T00:42:10Z,347.0,lille flandres,bordeaux saint-jean
+OCESN5224F1959940:2023-10-04T09:03:30Z,312.0,lille flandres,nantes
+OCESN5260F1586005:2023-10-04T00:41:06Z,282.0,bordeaux saint-jean,lille flandres
+OCESN5284F1959879:2023-09-30T00:27:01Z,299.0,bordeaux saint-jean,lille europe
+OCESN5288F1807624:2023-10-09T00:43:50Z,257.0,nantes,lille europe
+OCESN5300F2082707:2023-10-10T00:42:10Z,389.0,nantes,montpellier sud de france
+OCESN5306F1964028:2023-10-10T00:42:10Z,305.0,nantes,lyon perrache
+OCESN5306F2099768:2023-08-29T11:49:37Z,400.0,nantes,marseille saint-charles
+OCESN5306F2420561:2023-08-29T11:49:37Z,286.0,nantes,lyon part dieu
+OCESN5316F2173484:2023-10-13T00:46:55Z,403.0,le havre,marseille saint-charles
+OCESN5332F2023556:2023-10-13T00:46:55Z,353.0,rennes,marseille saint-charles
+OCESN5332F2420734:2023-08-30T00:33:31Z,239.0,rennes,lyon part dieu
+OCESN5336F2322212:2023-10-12T00:48:35Z,259.0,rennes,lyon perrache
+OCESN5336F2333144:2023-08-30T00:33:31Z,366.0,rennes,montpellier sud de france
+OCESN5351F1960316:2023-10-10T00:42:10Z,303.0,lyon perrache,nantes
+OCESN5358F2083180:2023-10-13T00:46:55Z,388.0,montpellier sud de france,nantes
+OCESN5366F2428682:2023-10-09T00:43:50Z,373.0,marseille saint-charles,nantes
+OCESN5376F1836496:2023-10-13T00:46:55Z,416.0,marseille saint-charles,le havre
+OCESN5380F2225755:2023-10-09T00:43:50Z,238.0,lyon perrache,rennes
+OCESN5382F1833535:2023-08-30T00:33:31Z,345.0,marseille saint-charles,rennes
+OCESN5382F2493689:2023-08-30T00:33:31Z,235.0,lyon part dieu,rennes
+OCESN5460F2417295:2023-10-09T00:43:50Z,280.0,rennes,strasbourg
+OCESN5470F1306365:2023-10-04T09:03:30Z,286.0,strasbourg,rennes
+OCESN5480F2021058:2023-10-02T00:28:07Z,320.0,nantes,strasbourg
+OCESN5486F2206999:2023-10-09T00:43:50Z,348.0,strasbourg,nantes
+OCESN5512F2173308:2023-10-09T00:43:50Z,223.0,lyon perrache,strasbourg
+OCESN5521F2173447:2023-08-29T11:49:37Z,432.0,metz,montpellier saint-roch
+OCESN5535F1306077:2023-10-09T00:43:50Z,255.0,strasbourg,lyon perrache
+OCESN5537F2257319:2023-10-09T00:43:50Z,494.0,nancy place de la république,toulon
+OCESN6024F2348460:2023-10-12T00:48:35Z,198.0,marseille saint-charles,paris gare de lyon hall 1 - 2
+OCESN6030F2079245:2023-08-29T11:49:37Z,208.0,montpellier saint-roch,paris gare de lyon hall 1 - 2
+OCESN6030F2370506:2023-08-29T11:49:37Z,315.0,perpignan,paris gare de lyon hall 1 - 2
+OCESN6033F2226966:2023-10-02T00:28:07Z,316.0,paris gare de lyon hall 1 - 2,perpignan
+OCESN6033F2296670:2023-10-09T00:43:50Z,210.0,paris gare de lyon hall 1 - 2,montpellier saint-roch
+OCESN6046F2264577:2023-09-24T00:33:07Z,194.0,montpellier sud de france,paris gare de lyon hall 1 - 2
+OCESN6047F2017805:2023-10-09T00:43:50Z,192.0,paris gare de lyon hall 1 - 2,montpellier sud de france
+OCESN6064F2402441:2023-10-09T00:43:50Z,99.0,montpellier sud de france,lyon part dieu
+OCESN6074F2340750:2023-08-29T11:49:37Z,353.0,nice-ville,paris gare de lyon hall 1 - 2
+OCESN6091F2274058:2023-10-09T00:43:50Z,101.0,paris gare de lyon hall 1 - 2,dijon
+OCESN6101F2114042:2023-10-13T00:46:55Z,198.0,paris gare de lyon hall 1 - 2,marseille saint-charles
+OCESN6117F2255923:2023-10-06T00:53:43Z,183.0,paris gare de lyon hall 1 - 2,aix-en-provence tgv
+OCESN6124F2580977:2023-10-12T00:48:35Z,272.0,hyères,paris gare de lyon hall 1 - 2
+OCESN6132F2086642:2023-10-06T00:53:43Z,185.0,aix-en-provence tgv,paris gare de lyon hall 1 - 2
+OCESN6150F2603812:2023-10-13T00:46:55Z,236.0,toulon,paris gare de lyon hall 1 - 2
+OCESN6153F2582594:2023-10-12T00:48:35Z,241.0,paris gare de lyon hall 1 - 2,toulon
+OCESN6155F2240364:2023-10-13T00:46:55Z,270.0,paris gare de lyon hall 1 - 2,hyères
+OCESN6191F2283042:2023-10-13T00:46:55Z,222.0,paris gare de lyon hall 1 - 2,avignon centre
+OCESN6193F2396410:2023-10-09T00:43:50Z,262.0,paris gare de lyon hall 1 - 2,miramas
+OCESN6194F1828930:2023-10-13T00:46:55Z,264.0,miramas,paris gare de lyon hall 1 - 2
+OCESN6196F2264656:2023-10-12T00:48:35Z,222.0,avignon centre,paris gare de lyon hall 1 - 2
+OCESN6311F2489791:2023-10-12T00:48:35Z,229.0,paris gare de lyon hall 1 - 2,grenoble
+OCESN6340F2514991:2023-10-12T00:48:35Z,247.0,grenoble,paris gare de lyon hall 1 - 2
+OCESN6503F1828798:2023-10-12T00:48:35Z,287.0,paris gare de lyon hall 1 - 2,évian-les-bains
+OCESN6504F1663507:2023-10-10T00:42:10Z,276.0,évian-les-bains,paris gare de lyon hall 1 - 2
+OCESN6601F1828766:2023-10-11T00:54:01Z,138.0,paris gare de lyon hall 1 - 2,lyon perrache
+OCESN6602F1783211:2023-10-13T00:46:55Z,144.0,lyon perrache,paris gare de lyon hall 1 - 2
+OCESN6607F1875962:2023-10-13T00:46:55Z,116.0,paris gare de lyon hall 1 - 2,lyon part dieu
+OCESN6616F2044730:2023-08-29T11:49:37Z,116.0,lyon part dieu,paris gare de lyon hall 1 - 2
+OCESN6681F1959731:2023-10-09T00:43:50Z,176.0,paris gare de lyon hall 1 - 2,saint-étienne châteaucreux
+OCESN6690F1967050:2023-10-09T00:43:50Z,171.0,saint-étienne châteaucreux,paris gare de lyon hall 1 - 2
+OCESN6700F2176818:2023-10-12T00:48:35Z,175.0,mulhouse,paris gare de lyon hall 1 - 2
+OCESN6703F1348736:2023-10-12T00:48:35Z,225.0,paris gare de lyon hall 1 - 2,mulhouse
+OCESN6741F2532502:2023-10-13T00:46:55Z,147.0,paris gare de lyon hall 1 - 2,besançon viotte
+OCESN6760F2206176:2023-10-13T00:46:55Z,154.0,besançon viotte,paris gare de lyon hall 1 - 2
+OCESN6801F2171784:2023-10-13T00:46:55Z,278.0,lyon part dieu,nice-ville
+OCESN6801F2420378:2023-08-29T11:49:37Z,163.0,lyon part dieu,toulon
+OCESN6813F2310077:2023-10-12T00:48:35Z,157.0,lyon perrache,toulon
+OCESN6821F1556209:2023-08-29T11:49:37Z,262.0,lyon part dieu,toulouse matabiau
+OCESN6821F2341635:2023-08-29T11:49:37Z,117.0,lyon part dieu,montpellier saint-roch
+OCESN6823F1477363:2023-10-12T00:48:35Z,245.0,lyon perrache,toulouse matabiau
+OCESN6850F1727105:2023-10-13T00:46:55Z,280.0,nice-ville,lyon part dieu
+OCESN6850F2261007:2023-08-29T11:49:37Z,178.0,toulon,lyon part dieu
+OCESN6850F2695595:2023-10-12T00:48:35Z,283.0,nice-ville,lyon perrache
+OCESN6864F2028313:2023-10-10T00:42:10Z,106.0,marseille saint-charles,lyon part dieu
+OCESN6866F2695602:2023-10-12T00:48:35Z,181.0,toulon,lyon perrache
+OCESN6871F1990990:2023-10-12T00:48:35Z,247.0,toulouse matabiau,lyon perrache
+OCESN6871F2260183:2023-08-29T11:49:37Z,247.0,toulouse matabiau,lyon part dieu
+OCESN6873F2369696:2023-08-29T11:49:37Z,111.0,montpellier saint-roch,lyon part dieu
+OCESN6931F1803437:2023-10-12T00:48:35Z,222.0,paris gare de lyon hall 1 - 2,annecy
+OCESN6960F2013699:2023-10-13T00:46:55Z,226.0,annecy,paris gare de lyon hall 1 - 2
+OCESN7001F1982829:2023-09-12T00:35:02Z,64.0,paris gare du nord,lille flandres
+OCESN7002F2308911:2023-10-13T00:46:55Z,64.0,lille flandres,paris gare du nord
+OCESN7014F2277078:2023-09-20T00:32:39Z,61.0,lille europe,paris gare du nord
+OCESN7087F2548254:2023-10-12T00:48:35Z,65.0,paris gare du nord,lille europe
+OCESN7104F2401207:2023-10-13T00:46:55Z,114.0,valenciennes,paris gare du nord
+OCESN7155F1959794:2023-10-12T00:48:35Z,104.0,paris gare du nord,valenciennes
+OCESN7200F2423174:2023-10-13T00:46:55Z,108.0,tourcoing,paris gare du nord
+OCESN7208F2610727:2023-10-13T00:46:55Z,126.0,dunkerque,paris gare du nord
+OCESN7251F2038084:2023-10-13T00:46:55Z,122.0,paris gare du nord,dunkerque
+OCESN7297F2423171:2023-10-13T00:46:55Z,108.0,paris gare du nord,tourcoing
+OCESN7434F2688639:2023-10-13T00:46:55Z,150.0,boulogne sur mer,paris gare du nord
+OCESN7522F2374187:2023-10-13T00:46:55Z,176.0,rang-du-fliers - verton - berck,paris gare du nord
+OCESN7551F2609376:2023-10-13T00:46:55Z,145.0,paris gare du nord,boulogne sur mer
+OCESN7565F2373038:2023-10-13T00:46:55Z,170.0,paris gare du nord,rang-du-fliers - verton - berck
+OCESN7591F2423097:2023-10-13T00:46:55Z,129.0,paris gare du nord,calais ville
+OCESN7611F2096666:2023-10-10T00:42:10Z,231.0,paris montparnasse hall 1 - 2,brest
+OCESN7612F1817975:2023-10-10T00:42:10Z,223.0,brest,paris montparnasse hall 1 - 2
+OCESN7615F1843659:2023-08-05T00:42:19Z,250.0,paris montparnasse hall 1 - 2,quimper
+OCESN7615F2688547:2023-10-11T00:54:01Z,201.0,paris montparnasse hall 1 - 2,auray
+OCESN7616F1954844:2023-08-05T00:42:19Z,252.0,quimper,paris montparnasse hall 1 - 2
+OCESN7616F2674088:2023-10-11T00:54:01Z,209.0,auray,paris montparnasse hall 1 - 2
+OCESN7621F2099929:2023-10-11T00:54:01Z,137.0,paris montparnasse hall 1 - 2,nantes
+OCESN7622F1955138:2023-10-13T00:46:55Z,124.0,nantes,paris montparnasse hall 1 - 2
+OCESN7641F2194498:2023-06-17T00:46:06Z,133.0,paris montparnasse hall 1 - 2,niort
+OCESN7641F2230238:2023-10-11T00:54:01Z,181.0,paris montparnasse hall 1 - 2,la rochelle
+OCESN7642F2096675:2023-10-11T00:54:01Z,171.0,la rochelle,paris montparnasse hall 1 - 2
+OCESN7642F2495779:2023-08-04T00:39:23Z,141.0,niort,paris montparnasse hall 1 - 2
+OCESN7660F1842888:2023-07-06T00:36:57Z,333.0,bordeaux saint-jean,tourcoing
+OCESN7669F2094099:2023-10-11T00:54:01Z,300.0,tourcoing,bordeaux saint-jean
+OCESN7672F1756418:2023-10-10T00:42:10Z,269.0,toulouse matabiau,paris montparnasse hall 1 - 2
+OCESN7810F2059735:2023-06-01T00:43:46Z,115.0,montpellier saint-roch,lyon perrache
+OCESN7813F2387503:2023-07-01T00:41:00Z,115.0,lyon perrache,montpellier saint-roch
+OCESN7815F1842605:2023-10-13T00:46:55Z,196.0,lille flandres,lyon perrache
+OCESN7831F2377020:2023-10-13T00:46:55Z,204.0,aéroport charles de gaulle 2 tgv,marseille saint-charles
+OCESN7831F2418177:2023-07-08T00:35:50Z,189.0,aéroport charles de gaulle 2 tgv,aix-en-provence tgv
+OCESN7835F1566322:2023-06-28T00:41:30Z,282.0,lille flandres,marseille saint-charles
+OCESN7836F2176707:2023-10-10T00:42:10Z,287.0,marseille saint-charles,tourcoing
+OCESN7841F2346869:2023-06-28T00:41:30Z,281.0,lille flandres,aix-en-provence tgv
+OCESN7860F2096777:2023-10-13T00:46:55Z,285.0,montpellier sud de france,lille flandres
+OCESN7867F2175416:2023-07-12T00:33:16Z,309.0,tourcoing,montpellier sud de france
+OCESN8003F2079401:2023-10-09T00:43:50Z,114.0,paris montparnasse hall 1 - 2,rennes
+OCESN8020F1316632:2023-10-12T00:48:35Z,92.0,rennes,paris montparnasse hall 1 - 2
+OCESN8080F1408509:2023-10-12T00:48:35Z,158.0,saint-malo,paris montparnasse hall 1 - 2
+OCESN8081F1959713:2023-10-01T00:25:35Z,167.0,paris montparnasse hall 1 - 2,saint-malo
+OCESN8179F1974145:2023-10-12T00:48:35Z,180.0,paris montparnasse hall 1 - 2,lorient
+OCESN8300F1991247:2023-10-13T00:46:55Z,74.0,tours,paris montparnasse hall 1 - 2
+OCESN8301F1303861:2023-08-29T11:49:37Z,73.0,paris montparnasse hall 1 - 2,tours
+OCESN8330F1912253:2023-09-05T00:35:10Z,122.0,poitiers,paris montparnasse hall 1 - 2
+OCESN8472F1646901:2023-10-09T00:43:50Z,181.0,arcachon,paris montparnasse hall 1 - 2
+OCESN8473F2322822:2023-10-10T00:42:10Z,185.0,paris montparnasse hall 1 - 2,arcachon
+OCESN8500F2402838:2023-10-13T00:46:55Z,203.0,agen,paris montparnasse hall 1 - 2
+OCESN8530F2286616:2023-10-12T00:48:35Z,295.0,hendaye,paris montparnasse hall 1 - 2
+OCESN8531F2387680:2023-10-09T00:43:50Z,284.0,paris montparnasse hall 1 - 2,hendaye
+OCESN8560F2411218:2023-10-13T00:46:55Z,325.0,tarbes,paris montparnasse hall 1 - 2
+OCESN8571F2688906:2023-10-11T00:54:01Z,313.0,paris montparnasse hall 1 - 2,tarbes
+OCESN8680F2326159:2023-10-12T00:48:35Z,161.0,saint-brieuc,paris montparnasse hall 1 - 2
+OCESN8687F2398325:2023-10-07T00:44:23Z,179.0,paris montparnasse hall 1 - 2,saint-brieuc
+OCESN8692F1301337:2023-10-09T00:43:50Z,190.0,lannion,paris montparnasse hall 1 - 2
+OCESN8695F1978000:2023-10-12T00:48:35Z,189.0,paris montparnasse hall 1 - 2,lannion
+OCESN8707F2226840:2023-10-03T00:24:35Z,167.0,paris montparnasse hall 1 - 2,vannes
+OCESN8720F2227274:2023-09-05T00:35:10Z,155.0,vannes,paris montparnasse hall 1 - 2
+OCESN8790F2076838:2023-10-12T00:48:35Z,203.0,lorient,paris montparnasse hall 1 - 2
+OCESN8895F1835277:2023-09-06T00:34:27Z,59.0,paris montparnasse hall 1 - 2,le mans
+OCESN8900F1961642:2023-10-13T00:46:55Z,171.0,saint-nazaire,paris montparnasse hall 1 - 2
+OCESN8901F1987766:2023-10-11T00:54:01Z,156.0,paris montparnasse hall 1 - 2,saint-nazaire
+OCESN8912F1678768:2023-10-09T00:43:50Z,210.0,le croisic,paris montparnasse hall 1 - 2
+OCESN8913F1912138:2023-10-12T00:48:35Z,204.0,paris montparnasse hall 1 - 2,le croisic
+OCESN8970F1988657:2023-10-12T00:48:35Z,205.0,les sables-d'olonne,paris montparnasse hall 1 - 2
+OCESN8973F1987572:2023-10-13T00:46:55Z,215.0,paris montparnasse hall 1 - 2,les sables-d'olonne
+OCESN8973F2312552:2023-08-29T11:49:37Z,190.0,paris montparnasse hall 1 - 2,la roche-sur-yon
+OCESN8984F2207857:2023-08-29T11:49:37Z,181.0,la roche-sur-yon,paris montparnasse hall 1 - 2
+OCESN9203F2239898:2023-10-09T00:43:50Z,244.0,paris gare de lyon hall 1 - 2,zuerich hb
+OCESN9206F2346712:2023-10-13T00:46:55Z,256.0,zuerich hb,paris gare de lyon hall 1 - 2
+OCESN9215F2541092:2023-10-13T00:46:55Z,184.0,paris gare de lyon hall 1 - 2,basel sbb
+OCESN9248F2239577:2023-10-10T00:42:10Z,188.0,chambéry - challes-les-eaux,paris gare de lyon hall 1 - 2
+OCESN9249F2670602:2023-10-10T00:42:10Z,174.0,paris gare de lyon hall 1 - 2,chambéry - challes-les-eaux
+OCESN9261F1817653:2023-10-13T00:46:55Z,238.0,paris gare de lyon hall 1 - 2,lausanne
+OCESN9264F2148923:2023-10-13T00:46:55Z,225.0,lausanne,paris gare de lyon hall 1 - 2
+OCESN9401F2388282:2023-10-13T00:46:55Z,227.0,paris est,freiburg (breisgau) hbf
+OCESN9402F2119927:2023-10-13T00:46:55Z,212.0,freiburg (breisgau) hbf,paris est
+OCESN9403F2606246:2023-10-13T00:46:55Z,256.0,paris gare du nord,freiburg (breisgau) hbf
+OCESN9404F2361363:2023-10-09T00:43:50Z,460.0,freiburg (breisgau) hbf,bordeaux saint-jean
+OCESN9406F1986987:2023-08-29T11:49:37Z,409.0,bordeaux saint-jean,freiburg (breisgau) hbf
+OCESN9500F2406465:2023-10-11T00:54:01Z,211.0,stuttgart hbf,paris gare du nord
+OCESN9503F2439740:2023-10-05T00:43:30Z,161.0,paris gare du nord,karlsruhe hbf
+OCESN9503F2643469:2023-10-05T00:43:30Z,201.0,paris gare du nord,stuttgart hbf
+OCESN9506F2606807:2023-10-11T00:54:01Z,353.0,munich,paris gare du nord
+OCESN9511F2569012:2023-10-11T00:54:01Z,251.0,paris gare du nord,francfort sur le main
+OCESN9514F2439737:2023-10-13T00:46:55Z,243.0,francfort sur le main,paris gare du nord
+OCESN9519F2606806:2023-10-11T00:54:01Z,346.0,paris gare du nord,munich
+OCESN9524F2643468:2023-10-05T00:43:30Z,186.0,karlsruhe hbf,paris gare du nord
+OCESN9528F2563787:2023-10-11T00:54:01Z,229.0,francfort sur le main,paris est
+OCESN9551F2177273:2023-08-29T11:49:37Z,244.0,paris est,francfort sur le main
+OCESN9570F2413447:2023-10-11T00:54:01Z,168.0,karlsruhe hbf,paris est
+OCESN9570F2423383:2023-10-11T00:54:01Z,194.0,stuttgart hbf,paris est
+OCESN9571F2651369:2023-10-13T00:46:55Z,154.0,paris est,karlsruhe hbf
+OCESN9571F2651374:2023-09-30T00:27:01Z,193.0,paris est,stuttgart hbf
+OCESN9576F2244604:2023-10-11T00:54:01Z,344.0,munich,paris est
+OCESN9577F2386763:2023-09-22T00:44:45Z,344.0,paris est,munich
+OCESN9580F1720606:2023-10-13T00:46:55Z,472.0,francfort sur le main,marseille saint-charles
+OCESN9583F2424901:2023-10-13T00:46:55Z,468.0,marseille saint-charles,francfort sur le main
+OCESN9584F2346093:2023-10-13T00:46:55Z,196.0,freiburg (breisgau) hbf,paris gare du nord
+OCESN9704F1927197:2023-10-13T00:46:55Z,406.0,barcelone-sants,paris gare de lyon hall 1 - 2
+OCESN9713F2277333:2023-10-03T00:24:35Z,412.0,paris gare de lyon hall 1 - 2,barcelone-sants
+OCESN9760F1299556:2023-08-29T11:49:37Z,197.0,geneve,paris gare de lyon hall 1 - 2
+OCESN9761F2215705:2023-08-29T11:49:37Z,191.0,paris gare de lyon hall 1 - 2,geneve
+OCESN9809F1329786:2023-10-13T00:46:55Z,35.0,lille europe,bruxelles midi
+OCESN9810F1987144:2023-10-09T00:43:50Z,359.0,bruxelles midi,marseille saint-charles
+OCESN9810F2264582:2023-10-09T00:43:50Z,349.0,bruxelles midi,aix-en-provence tgv
+OCESN9812F1850830:2023-10-09T00:43:50Z,346.0,bruxelles midi,montpellier saint-roch
+OCESN9826F2080350:2023-10-09T00:43:50Z,333.0,bruxelles midi,montpellier sud de france
+OCESN9830F2347726:2023-10-09T00:43:50Z,223.0,bruxelles midi,lyon part dieu
+OCESN9832F2211784:2023-09-12T00:35:02Z,287.0,bruxelles midi,nantes
+OCESN9836F2310488:2023-10-12T00:48:35Z,448.0,bruxelles midi,perpignan
+OCESN9838F2197146:2023-10-13T00:46:55Z,275.0,bruxelles midi,rennes
+OCESN9844F2052158:2023-10-09T00:43:50Z,97.0,bruxelles midi,aéroport charles de gaulle 2 tgv
+OCESN9844F2540751:2023-10-12T00:48:35Z,241.0,bruxelles midi,lyon perrache
+OCESN9852F1640701:2023-10-13T00:46:55Z,246.0,lyon perrache,bruxelles midi
+OCESN9854F2080339:2023-10-12T00:48:35Z,350.0,marseille saint-charles,bruxelles midi
+OCESN9854F2361357:2023-09-14T00:34:33Z,217.0,lyon part dieu,bruxelles midi
+OCESN9862F2080338:2023-10-13T00:46:55Z,373.0,montpellier sud de france,bruxelles midi
+OCESN9862F2100221:2023-10-03T00:24:35Z,497.0,perpignan,bruxelles midi
+OCESN9862F2240048:2023-10-09T00:43:50Z,386.0,montpellier saint-roch,bruxelles midi
+OCESN9866F2406753:2023-10-09T00:43:50Z,300.0,aix-en-provence tgv,bruxelles midi
+OCESN9870F1512949:2023-10-13T00:46:55Z,228.0,bruxelles midi,strasbourg
+OCESN9877F2168481:2023-08-29T11:49:37Z,461.0,luxembourg,marseille saint-charles
+OCESN9877F2202351:2023-10-06T00:53:43Z,415.0,metz,marseille saint-charles
+OCESN9877F2368137:2023-08-29T11:49:37Z,445.0,luxembourg,aix-en-provence tgv
+OCESN9877F2418353:2023-08-29T11:49:37Z,403.0,metz,aix-en-provence tgv
+OCESN9879F1510146:2023-10-12T00:48:35Z,446.0,luxembourg,montpellier sud de france
+OCESN9879F2261877:2023-08-29T11:49:37Z,397.0,metz,montpellier sud de france
+OCESN9884F2002470:2023-10-13T00:46:55Z,278.0,rennes,bruxelles midi
+OCESN9886F1812222:2023-10-13T00:46:55Z,300.0,nantes,bruxelles midi
+OCESN9890F1993704:2023-10-13T00:46:55Z,222.0,strasbourg,bruxelles midi
+OCESN9896F2175115:2023-08-29T11:49:37Z,473.0,marseille saint-charles,luxembourg
+OCESN9896F2240179:2023-10-09T00:43:50Z,426.0,marseille saint-charles,metz
+OCESN9896F2411725:2023-10-09T00:43:50Z,461.0,aix-en-provence tgv,luxembourg
+OCESN9898F2085687:2023-08-29T11:49:37Z,466.0,montpellier saint-roch,luxembourg
